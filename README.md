@@ -4,3 +4,5 @@ Con la situación actual de guerras en el mundo y cambio climático, unido a pa�
 La información proporcionada en los ficheros de salida CSV realizados en esta práctica, nos va a ayudar a comprender la situación demográfica de cada uno de los países. Mientras que se intenta que las personas no tengan que migrar de sus países por ningún motivo forzoso, se hace necesario conocer con detalle la situación demográfica de cada país y su posibilidad de aceptar migrantes de otros países. También nos permitirá tener en cuenta otros factores como la tasas de suicidio, indice de desarrollo humano, natalidad, religiones o tasas de alfabetización que nos ayudarán a entender mejor la realidad social de estos países 
 
 La web https://datosmacro.expansion.com/ proporciona mucha información de distinta índole, y entre dicha información se encuentran datos demográficos de todos los países del mundo, que utilizaremos para generar unos ficheros .csv con cada uno de los 22 índices disponibles.
+
+## Para abrir el fichero es necesario descargar el .rar donde contiene la carpeta de salida llamada "SalidaFicherosCSV"
