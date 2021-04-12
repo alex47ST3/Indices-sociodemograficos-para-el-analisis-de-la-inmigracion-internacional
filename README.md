@@ -6,7 +6,37 @@ El objetivo de este ejercicio es tratar de proporcionar una herramienta que sirv
 
 La web https://datosmacro.expansion.com/ proporciona mucha información de distinta índole, y entre dicha información se encuentran datos demográficos de todos los países del mundo, que utilizaremos para generar unos ficheros .csv con cada uno de los 22 índices disponibles.
 
-**(Es necesario indicar al menos 1 de los índices que se deseen descargar)**
+
+# Funcionamiento
+
+Al ejecutar el programa se pedirá seleccionar uno o varios índices enumerados de 1 al 22 separados por comas y sin espacios en blanco entre caracteres.
+
+Los indices son:
+
+        1.- Índice Global de la Brecha de Género
+        2.- Población
+        3.- Inmigrantes
+        4.- Remesas de migrantes
+        5.- Emigrantes totales
+        6.- Índice de Desarrollo Humano
+        7.- Índice de Progreso Social - SPI
+        8.- Índice de Paz Global
+        9.- Índice global de envejecimiento
+        10.- Natalidad
+        11.- Mortalidad
+        12.- Esperanza de vida al nacer
+        13.- Matrimonios
+        14.- Divorcios
+        15.- Suicidios
+        16.- Homicidios Intencionados
+        17.- Población reclusa
+        18.- Riesgo de pobreza
+        19.- Índice Mundial de la Felicidad
+        20.- Pirámide de población
+        21.- Tasa de alfabetización de adultos
+        22.- Religiones
+
+
 
 **(Esto es un ejercicio académico)**
 
