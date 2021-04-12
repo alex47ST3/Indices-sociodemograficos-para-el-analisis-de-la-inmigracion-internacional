@@ -19,7 +19,7 @@ No todos los indices que hay en cada página web muestran el mismo número de pa
        chapuza, pero bueno.......
 210401_1625_main.py Alejandro Prieto: He cambiado el encoding de la última línea ( dataframe_temp.to_csv()) a
         "utf_8_sig" por que estaba dando un error en el enlace de mortalidad
-210412_1747 Alejandro Prieto: Salida no direccionada a ninguna carpeta
+210412_1747 Alejandro Prieto: Salida no direccionada a ninguna carpeta. Correción de algunas faltas de ortografía
 """
 import pandas as pd
 import requests
@@ -46,7 +46,7 @@ def seleccion_usuario():
         print("2.- Población")
         print("3.- Inmigrantes")
         print("4.- Remesas de migrantes")
-        print("5.- Emgrantes totales")
+        print("5.- Emigrantes totales")
         print("6.- Índice de Desarrollo Humano")
         print("7.- Índice de Progreso Social - SPI")
         print("8.- Índice de Paz Global")
@@ -61,12 +61,12 @@ def seleccion_usuario():
         print("17.- Población reclusa")
         print("18.- Riesgo de pobreza")
         print("19.- Índice Mundial de la Felicidad")
-        print("20.- Piramide de población")
+        print("20.- Pirámide de población")
         print("21.- Tasa de alfabetización de adultos")
         print("22.- Religiones")
 
         print("\n\nPara terminar el programa pulsar ENTER.")
-        val = input("\n\nIntroduzca selección indicando los número correspondientes, separados por comas, y sin espacios en blanco "
+        val = input("\n\nIntroduzca selección indicando los número correspondientes, separados por comas y sin espacios en blanco "
                     "entre caracteres: ")
 
         lista_entrada = val.split(',')
