@@ -12,8 +12,8 @@ La web https://datosmacro.expansion.com/ proporciona mucha información de disti
 
 # El programa requiere de las siguientes librerías
 
-´´´´
+```
 pip install pandas
 pip install requests
 pip install beautifulsoup4
-´´´´
+```
