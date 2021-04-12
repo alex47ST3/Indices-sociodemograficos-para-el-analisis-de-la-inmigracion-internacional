@@ -9,3 +9,9 @@ La web https://datosmacro.expansion.com/ proporciona mucha información de disti
 **(Es necesario indicar al menos 1 de los índices que se deseen descargar)**
 
 **(Esto es un ejercicio académico)**
+
+# El programa requiere de las siguientes librerías
+
+pip install pandas
+pip install requests
+pip install beautifulsoup4
